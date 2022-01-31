@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-31T18:50:32.986Z" agent="5.0 (Windows)" etag="Vt6E-Mk45y58-J6H5ez3" version="16.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-31T19:00:58.306Z" agent="5.0 (Windows)" etag="0T0NP6lX82cqR-a7E2iA" version="16.5.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1278" dy="1733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -49,11 +49,11 @@
           <mxGeometry y="34" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="cMAkUVN1KesiIpSyEMC5-14" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Personagem&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ field: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="570" y="-210" width="160" height="90" as="geometry" />
+          <mxGeometry x="560" y="-210" width="160" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="cMAkUVN1KesiIpSyEMC5-15" value="1" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=bottom;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cMAkUVN1KesiIpSyEMC5-14" edge="1" target="cMAkUVN1KesiIpSyEMC5-20">
+        <mxCell id="cMAkUVN1KesiIpSyEMC5-15" value="" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=bottom;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cMAkUVN1KesiIpSyEMC5-14" target="cMAkUVN1KesiIpSyEMC5-20" edge="1">
           <mxGeometry x="-1" y="3" relative="1" as="geometry">
-            <mxPoint x="450" y="-50" as="sourcePoint" />
+            <mxPoint x="530" y="-160" as="sourcePoint" />
             <mxPoint x="405" y="-155" as="targetPoint" />
           </mxGeometry>
         </mxCell>
